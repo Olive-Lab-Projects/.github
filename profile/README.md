@@ -22,17 +22,10 @@ Our GitHub hosts production-ready tools, SDKs, and sample implementations.
 
 ## 🌟 Featured Products
 
-### [Product Name]
-_Brief description of business value and target audience_  
-🔨 Tech Stack: Python/JavaScript/React/Node.js  
-🚀 [Live Demo](https://demo.olivelabs.com) | 📚 [Developer Documentation](https://docs.olivelabs.com)
-
-### [Product Name]
-_Industry-specific solution for [target market]_  
-🔨 Tech Stack: Go/TypeScript/PostgreSQL/Kubernetes  
-📦 [Enterprise Edition](https://www.olivelabs.com/pricing) | 🔧 [API Reference](https://api.olivelabs.com)
-
-*(Add actual product entries with relevant links)*
+### [Lyfe Plus]
+Health management system for doctors and patient
+🔨 Tech Stack: React/Node.js  
+🚀 [Live Demo](https://demo.olivelabs .com) | 📚 [Developer Documentation](https://docs.olivelabs .com)
 
 ---
 
@@ -41,21 +34,21 @@ _Industry-specific solution for [target market]_
 For business inquiries or technical support:
 1. 📧 **Contact Sales**: sales@olivelabs.com
 2. 🆘 **Technical Support**: support@olivelabs.com
-3. 📝 **Documentation**: [https://docs.olivelabs.com](https://docs.olivelabs.com)
-4. 💬 **Schedule Demo**: [https://www.olivelabs.com/demo](https://www.olivelabs.com/demo)
+3. 📝 **Documentation**: [https://docs.olivelabs.com](https://docs.olivelabs. com)
+4. 💬 **Schedule Demo**: [https://www.olivelabs.com/demo](https://www.olivelabs .com/demo)
 
 ---
 
 ## 🌐 Connect With Us
 
-- 🌍 [Official Website](https://www.olivelabs.com)
-- 📝 [Tech Blog](https://blog.olivelabs.com)
-- 🐦 [Twitter @olivelabs](https://twitter.com/olivelabs)
-- 💼 [LinkedIn](https://linkedin.com/company/olive-labs)
+- 🌍 [Official Website](https://www.olivelabs .com)
+- 📝 [Tech Blog](https://blog.olivelabs. com)
+- 🐦 [Twitter @olivelabs](https://twitter.com/olive labs)
+- 💼 [LinkedIn](https://linkedin.com/company/olive- labs)
 - 📧 partnership@olivelabs.com
 
 **Stay Informed**  
-Subscribe for product updates and announcements ➡️ [Newsletter Signup](https://www.olivelabs.com/newsletter)
+Subscribe for product updates and announcements ➡️ [Newsletter Signup](https://www.oliv elabs.com/newsletter)
 
 ---
 
