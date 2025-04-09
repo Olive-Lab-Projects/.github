@@ -24,31 +24,7 @@ Our GitHub hosts production-ready tools, SDKs, and sample implementations.
 
 ### [Lyfe Plus]
 Health management system for doctors and patient
-🔨 Tech Stack: React/Node.js  
-🚀 [Live Demo](https://demo.olivelabs .com) | 📚 [Developer Documentation](https://docs.olivelabs .com)
-
----
-
-## 🛠️ Getting Started
-
-For business inquiries or technical support:
-1. 📧 **Contact Sales**: sales@olivelabs.com
-2. 🆘 **Technical Support**: support@olivelabs.com
-3. 📝 **Documentation**: [https://docs.olivelabs.com](https://docs.olivelabs. com)
-4. 💬 **Schedule Demo**: [https://www.olivelabs.com/demo](https://www.olivelabs .com/demo)
-
----
-
-## 🌐 Connect With Us
-
-- 🌍 [Official Website](https://www.olivelabs .com)
-- 📝 [Tech Blog](https://blog.olivelabs. com)
-- 🐦 [Twitter @olivelabs](https://twitter.com/olive labs)
-- 💼 [LinkedIn](https://linkedin.com/company/olive- labs)
-- 📧 partnership@olivelabs.com
-
-**Stay Informed**  
-Subscribe for product updates and announcements ➡️ [Newsletter Signup](https://www.oliv elabs.com/newsletter)
+🔨 Tech Stack: React/Node.js 
 
 ---
 
